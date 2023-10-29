@@ -1,2 +1,2 @@
-[Link to other page](/page2.md)
+[https://ellenasakai.github.io/repo/](/page2.md)
 
